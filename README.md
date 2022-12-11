@@ -23,7 +23,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legionite-Scripts)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Legionite-Scripts)  
 
 
 ![Profile views](https://gpvc.arturio.dev/Legionite-Scripts)  
