@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on Open Source and Team Projects
 - 💬 Ask me about my latest projects! 
 - 📫 Email: samuelonwuka88@gmail.com
+- 📞 Phone: +2349031452639
 - 💻 Tech Experience: 2 Years
 
 
