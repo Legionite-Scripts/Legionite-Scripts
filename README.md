@@ -1,4 +1,5 @@
- Hi there 👋
+ Hey Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 - 🔭 I’m Legionite Scripts!
 - 🌱 I’m currently learning React and NodeJs
@@ -20,4 +21,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
-![Snake animation](https://github.com/Legionite-Scripts/Legionite-Scripts/blob/output/github-contribution-grid-snake.svg)
+
