@@ -82,9 +82,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
-
-#Visitors badge below
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Legionite-Scripts.Legionite-Scripts)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
