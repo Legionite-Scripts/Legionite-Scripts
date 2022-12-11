@@ -60,6 +60,5 @@
         </tr>
     </tbody>
 </table>
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
