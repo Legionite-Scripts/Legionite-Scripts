@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
 
-![Legionite-Script's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legionite-Scripts&show_icons=true&theme=gruvbox)
+![Legionite-Script's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legionite-Scripts&show_icons=true&theme=transparent)
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
