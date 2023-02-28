@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m Legionite Scripts!
-- 🌱 I’m currently learning React and NodeJs
+- 🌱 I’m currently into Web Development with JavaScript and Go
 - 👯 I’m looking to collaborate on Open Source and Team Projects
 - 💬 Ask me about my latest projects! 
 - 📫 Email: samuelonwuka88@gmail.com
