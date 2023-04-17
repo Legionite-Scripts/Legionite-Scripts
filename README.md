@@ -7,6 +7,7 @@
 - 💬 Ask me about my latest projects! 
 - 📫 Email: samuelonwuka88@gmail.com
 - 📞 Phone: +2349031452639
+- 📞 Whatsapp: +2349043683675
 - 💻 Tech Experience: 2 Years
 
 
