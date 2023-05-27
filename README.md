@@ -1,106 +1,37 @@
- Hey Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Hi 👋, I'm Legionite Scripts </></h1>
+<h3 align="center">I'm a Passionate Nigerian Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=legionite-scripts&label=Profile%20views&color=0e75b6&style=flat" alt="legionite-scripts" /> </p>
 
-- 🔭 I’m Legionite Scripts!
-- 🌱 I’m currently into Web Development with JavaScript and Go
-- 👯 I’m looking to collaborate on Open Source and Team Projects
-- 💬 Ask me about my latest projects! 
-- 📫 Email: samuelonwuka88@gmail.com
-- 📞 Phone: +2349031452639
-- 📞 Whatsapp: +2349043683675
-- 💻 Tech Experience: 2 Years
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionite-scripts" alt="legionite-scripts" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/thelegionite" target="blank"><img src="https://img.shields.io/twitter/follow/thelegionite?logo=twitter&style=for-the-badge" alt="thelegionite" /></a> </p>
 
+- 🔭 I’m currently into **Go and JavaScript**
 
+- 🌱 I’m currently learning **Gin**
 
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
+- 👨‍💻 All of my details are available at [https://legionites-portfolio.netlify.app](https://legionites-portfolio.netlify.app)
 
+- 💬 Ask me about **Frontend and Backend Development**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Legionite-Scripts)  
+- 📫 How to reach me **samuelonwuka88@gmail.com**
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Legionite-Scripts)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-![Profile views](https://gpvc.arturio.dev/Legionite-Scripts)  
-
-
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Legionite-Scripts)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legionite-Scripts)](https://github.com/Legionite-Scripts/github-readme-stats)
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<a href="https://twitter.com/thelegionite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thelegionite" height="30" width="40" /></a>
 </p>
-<table width="320px">
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
-            </td>
-        </tr>
-    </tbody>
-</table>
-<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-![Legionite-Script's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legionite-Scripts&show_icons=true&theme=transparent)
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/legionite scripts"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="legionite scripts" /></a></p><br><br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legionite-scripts&show_icons=true&locale=en&layout=compact" alt="legionite-scripts" /></p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legionite-scripts&show_icons=true&locale=en" alt="legionite-scripts" /></p>
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Legionite-Scripts.Legionite-Scripts)
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legionite-scripts&" alt="legionite-scripts" /></p>
