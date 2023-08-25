@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently into **Go and JavaScript**
 
-- 🌱 I’m currently learning **Gin**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
