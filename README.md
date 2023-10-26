@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **any open source projects**
 
-- 👨‍💻 All of my projects are available at : ble at [https://legionites-portdolio.netlify.app](https://legionites-portdolio.netlify.app)
+- 👨‍💻 All of my projects are available at : [https://legionites-portfolio.netlify.app](https://legionites-portdolio.netlify.app)
 
-- 💬 Ask me about **react, next.js, golang,bootstrap,typescript**
+- 💬 Ask me about **JavaScript,React,SEO,Bootstrap,Typescript**
 
 - 📫 How to reach me **samuelonwuka88@gmail.com**
 
