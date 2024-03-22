@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Legionite Scripts</h1>
-<h3 align="center">I'm a Frontend React Developer from Nigeria.</h3>
+<h3 align="center">I'm a FullStack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legionite-scripts&label=Profile%20views&color=0e75b6&style=flat" alt="legionite-scripts" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/thelegionite" target="blank"><img src="https://img.shields.io/twitter/follow/thelegionite?logo=twitter&style=for-the-badge" alt="thelegionite" /></a> </p>
 
-- 🌱 I’m currently learning **More JavaScript Frameworks to improve my stack.**
+- 🌱 I’m currently working with **More JavaScript Frameworks.**
 
 - 👯 I’m looking to collaborate on **any open source projects**
 
-- 👨‍💻 All of my projects are available at : [https://legionites-portfolio.netlify.app](https://legionites-portdolio.netlify.app)
+- 👨‍💻 All of my projects are available at : [https://legionites-portfolio.netlify.app](https://legionites-portfolio.netlify.app)
 
-- 💬 Ask me about **JavaScript,React,SEO,Bootstrap,Typescript**
+- 💬 Ask me about **JavaScript,Vuejs,Nuxt,Nodejs,Expressjs**
 
 - 📫 How to reach me **samuelonwuka88@gmail.com**
 
-- ⚡ Fun fact **my services are top-notch and satisfactory.**
+- ⚡ Fun fact **I always write code with music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
