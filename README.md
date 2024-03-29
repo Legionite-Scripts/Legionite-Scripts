@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at : [https://legionites-portfolio.netlify.app](https://legionites-portfolio.netlify.app)
 
-- 💬 Ask me about **JavaScript,Vuejs,Nuxt,Nodejs,Expressjs**
+- 💬 Ask me about **JavaScript, Vuejs, Nuxt, Nodejs, Expressjs**
 
 - 📫 How to reach me **samuelonwuka88@gmail.com**
 
