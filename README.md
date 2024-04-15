@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any open source projects**
 
-- 👨‍💻 All of my projects are available at : [https://legionites-portfolio.netlify.app](https://legionites-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available on : My Github account, which you're currently viewing.
 
 - 💬 Ask me about **JavaScript, Vuejs, Nuxt, Nodejs, Expressjs**
 
