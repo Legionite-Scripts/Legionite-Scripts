@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/thelegionite" target="blank"><img src="https://img.shields.io/twitter/follow/thelegionite?logo=twitter&style=for-the-badge" alt="thelegionite" /></a> </p>
 
-- 🌱 I’m currently working with **JavaScript, Vuejs, Nuxt, Nodejs, Expressjs**
+- 🌱 I’m currently working with **JavaScript & Python**
 
 - 👯 I’m looking to collaborate on **any open source projects**
 
 - 👨‍💻 All of my projects are available on : My Github account, which you're currently viewing.
 
-- 💬 Ask me about **System Design**
+- 💬 Ask me about **Web Design/Development**
 
 - 📫 How to reach me **samuelonwuka88@gmail.com**
 
