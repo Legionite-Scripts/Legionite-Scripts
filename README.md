@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available on : My Github account, which you're currently viewing.
 
-- 💬 Ask me about **Web Design/Development**
+- 💬 Ask me about **The Web**
 
 - 📫 How to reach me **samuelonwuka88@gmail.com**
 
