@@ -1,6 +1,7 @@
 <h1 align="center">I'm Legionite, A Web Developer</h1>
 <h3 align="center">Tech Omnivore.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+concept+to+code,your+vision+deployed;Stay+Coding)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=legionite-scripts&label=Profile%20views&color=0e75b6&style=flat" alt="legionite-scripts" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionite-scripts" alt="legionite-scripts" /></a> </p>
