@@ -1,36 +1,60 @@
-<h1 align="center">I'm Legionite, A Web Developer</h1>
-<h3 align="center">Tech Omnivore.</h3>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+concept+to+code;Stay+Coding)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=legionite-scripts&label=Profile%20views&color=0e75b6&style=flat" alt="legionite-scripts" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionite-scripts" alt="legionite-scripts" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thelegionite" target="blank"><img src="https://img.shields.io/twitter/follow/thelegionite?logo=twitter&style=for-the-badge" alt="thelegionite" /></a> </p>
-
-- 🌱 I’m currently working with **JavaScript & Python**
-
-- 👯 I’m looking to collaborate on **any open source projects**
-
-- 👨‍💻 All of my projects are available on : My Github account, which you're currently viewing.
-
-- 💬 Ask me about **The Web**
-
-- 📫 How to reach me **samuelonwuka88@gmail.com**
-
-- ⚡ Fun fact **I always write code with music.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thelegionite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thelegionite" height="30" width="40" /></a>
-<a href="https://fb.com/thee legionite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thee legionite" height="30" width="40" /></a>
+<h1 align="center">Hi there, I'm Legionite 👋</h1>
+<p align="center">
+  <i>Tech Enthusiast | Full-stack Web Developer | Open Source Contributor</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=legionite-scripts&show_icons=true&locale=en&layout=compact" alt="legionite-scripts" /></p>
+### 🖋️ About Me
+- 🌱 I’m currently working with **JavaScript** & **Python**
+- 👯 Open to collaborating on exciting **open source projects**
+- 🕸️ Ask me about **The Web**
+- 🎵 Fun Fact: I always write code with music
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=legionite-scripts&show_icons=true&locale=en" alt="legionite-scripts" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=legionite-scripts&" alt="legionite-scripts" /></p>
+### 🔥 Stats & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Legionite-Scripts&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Legionite-Scripts&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+### 🚀 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+</p>
+
+---
+
+### 📂 Featured Projects
+- 🔗 [Project 1 - Awesome Web App](https://github.com/Legionite-Scripts/awesome-web-app): Brief description of the app.
+- 🔗 [Project 2 - Another Cool Project](https://github.com/Legionite-Scripts/another-cool-project): Brief description.
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:samuelonwuka88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+  <a href="https://twitter.com/thelegionite">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://facebook.com/thelegionite">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+</p>
+
+---
+
+### 🎨 Fun Design with SVG
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Building+projects+with+passion.">
+</p>
