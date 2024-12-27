@@ -34,8 +34,8 @@
 ---
 
 ### 📂 Featured Projects
-- 🔗 [Project 1 - Awesome Web App](https://github.com/Legionite-Scripts/awesome-web-app): Brief description of the app.
-- 🔗 [Project 2 - Another Cool Project](https://github.com/Legionite-Scripts/another-cool-project): Brief description.
+- 🔗 [Project 1 - FastAPI Auth System](https://github.com/Legionite-Scripts/FastAPI-Auth-System): Progressive Auth System with FastAPI.
+- 🔗 [Project 2 - Unsplash Image Search](https://github.com/Legionite-Scripts/Unsplash-image-search): Image Search with Unsplash.
 
 ---
 
