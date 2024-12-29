@@ -3,8 +3,8 @@
   <i>Tech Enthusiast | Full-stack Web Developer | Open Source Contributor</i>
 </p>
 
----
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+concept+to+code;From+vision+to+execution)](https://git.io/typing-svg)
+---
 
 
 ### 🖋️ About Me
