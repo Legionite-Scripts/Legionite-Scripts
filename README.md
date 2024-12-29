@@ -4,6 +4,8 @@
 </p>
 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+concept+to+code;From+vision+to+execution)](https://git.io/typing-svg)
+
 
 ### 🖋️ About Me
 - 🌱 I’m currently working with **JavaScript** & **Python**
