@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Legionite 👋</h1>
 <p align="center">
-  <i>Tech Enthusiast | Full-stack Web Developer | Open Source Contributor</i>
+  <i>Tech Bro | Full-stack Web Developer | High Input Individual</i>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=From+concept+to+code;From+vision+to+execution)](https://git.io/typing-svg)
